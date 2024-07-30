@@ -1,8 +1,11 @@
 
+![result](https://github.com/user-attachments/assets/e0918317-bb83-4e66-b7d8-12e970fb8f25)
+
+
 <h1 align="center">Namaskar 👋, I'm Arpan Chatterjee</h1>
 <h3 align="center">A passionate tech-geek undergrad from VIT Vellore. Have always been fond of technology and currently working on AI and ML research and projects !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanthisside" alt="arpanthisside" /></a> </p>
+
 
 - 📫 How to reach me **leetcoder2404@gmail.com**
 
@@ -122,9 +125,10 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &emsp;&emsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arpanthisside&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpanthisside&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanthisside&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanthisside&show_icons=true&locale=en&layout=compact" alt="arpanthisside" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpanthisside&show_icons=true&locale=en" alt="arpanthisside" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanthisside&" alt="arpanthisside" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
