@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Namaskar 👋, I'm Arpan Chatterjee</h1>
+<h1 align="center">Scroll Down to Checkout my profile !! </h1>
 <h3 align="center">A passionate tech-geek undergrad from VIT Vellore. Have always been fond of technology and currently working on AI and ML research and projects !</h3>
 
 
