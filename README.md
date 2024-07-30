@@ -1,5 +1,6 @@
 
-![result](https://github.com/user-attachments/assets/e0918317-bb83-4e66-b7d8-12e970fb8f25)
+![result (1)](https://github.com/user-attachments/assets/a3be5879-8d46-4e6a-a492-8b5e8d4be27a)
+
 
 
 <h1 align="center">Namaskar 👋, I'm Arpan Chatterjee</h1>
