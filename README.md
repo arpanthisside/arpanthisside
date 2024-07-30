@@ -12,9 +12,10 @@
 
 - ⚡ Fun fact **I like Tea and not Coffee :)**
 
-<h3 align="left">Connect with me:
-<p align="left">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://linkedin.com/in/arpanchatterjeecse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arpanchatterjeecse" height="30" width="40" /></a>&emsp;&emsp;
+<h3 align="center">Connect with me:
+  <p></p>
+<p align="center">
+<a href="https://linkedin.com/in/arpanchatterjeecse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arpanchatterjeecse" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://instagram.com/arpanthisside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpanthisside" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://leetcode.com/u/leetcoder2404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/leetcoder2404/" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://www.geeksforgeeks.org/user/leetcod6vlo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/leetcod6vlo/" height="30" width="40" /></a>
