@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour ! Myself Arpan Chatterjee</h1>
 <h3 align="center">A tech-geek fond of writing code that can bring minute changes to lives of people.</h3>
 
-- 🌱 I’m currently learning **Angular,MERN stack and always fond of Ai and ML**
+- 🌱 I’m currently learning **NLP,Flask/Django and always fond of AI and ML**
 
 - 📫 How to reach me **leetcoder2404@gmail.com**
 
