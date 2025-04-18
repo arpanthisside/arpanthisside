@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular,MERN stack and always fond of Ai and ML**
 
-- 📫 How to reach me **arpanc2404@gmail.com**
+- 📫 How to reach me **leetcoder2404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
